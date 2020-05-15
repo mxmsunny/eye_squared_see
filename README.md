@@ -1,5 +1,7 @@
 # *Eye Squared See*
 
+![photo](https://github.com/mxmsunny/eye_squared_see/blob/master/project.png "Picture of the finished product")
+
 #### Table of Contents
 1. [Project Description](#project)<br/>
 2. [Game Modes](#mode)<br/>
@@ -9,7 +11,7 @@
 # <a name="project">Project Description</a>
 *Eye Squared See* is an **Arduino** project that aims to test and improve hand-eye coordination by having players simultaneously focus their eyes and hands on a moving LED and colored buttons. In other words, it is a reaction game with two game modes that requires the player to use both their eyes and fingers to play.
 
-This is also my first time working with microprocessors and embedded systems.
+This is also my first time working with microprocessors and embedded systems and was completed on December 10th, 2019.
 
 **Power drawn:** 215mA
 **I/O Pins used:** 6 + SCL and SDA pins + RESET,GND and 5V pins.
