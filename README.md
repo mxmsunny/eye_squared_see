@@ -13,6 +13,8 @@
 
 This is also my first time working with microprocessors and embedded systems and was completed on December 10th, 2019.
 
+Videos of the project can be seen in the *videos* folder. There are 4 parts.
+
 **Power drawn:** 215mA
 **I/O Pins used:** 6 + SCL and SDA pins + RESET,GND and 5V pins.
 
